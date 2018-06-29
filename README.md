@@ -1,1 +1,1 @@
-# PIK_ML_COMPETITION
+# Please see main.ipynb
